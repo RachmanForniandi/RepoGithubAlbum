@@ -1,8 +1,9 @@
-package rachman.forniandi.repogithubalbum
+package rachman.forniandi.repogithubalbum.ui.activities
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import rachman.forniandi.repogithubalbum.R
 import java.util.Timer
 import kotlin.concurrent.schedule
 
